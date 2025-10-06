@@ -1,0 +1,19 @@
+{
+  "name": "voyager",
+  "version": "1.0.0",
+  "description": "VOYAGER Inc. website with contact form functionality",
+  "type": "module",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2",
+    "resend": "^6.1.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "author": "VOYAGER Inc.",
+  "license": "ISC"
+}
