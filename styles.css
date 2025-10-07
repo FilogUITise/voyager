@@ -1236,6 +1236,7 @@ body {
     display: flex;
     flex-direction: column;
     gap: 24px;
+    justify-content: space-between;
 }
 
 
@@ -1278,7 +1279,7 @@ body {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
     color: #111827;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 32px;
     margin-bottom: 8px;
 }
